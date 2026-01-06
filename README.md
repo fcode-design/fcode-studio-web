@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡ FCODE
 
-## Getting Started
+FCODE is a modern digital studio focused on building high-quality web applications, user interfaces, and scalable digital solutions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 About FCODE
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+FCODE delivers clean, performant, and production-ready web solutions using modern technologies and best development practices.  
+The focus is on clarity, usability, and long-term maintainability.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧠 What We Do
 
-## Learn More
+- Custom Web Applications
+- Frontend & UI Development
+- Full-Stack Solutions
+- Performance Optimization
+- Modern SEO-ready Websites
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- REST APIs
+- Git & GitHub
+- Linux Environment
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✨ Key Principles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Clean and readable code
+- Scalable architecture
+- Responsive & accessible UI
+- Performance-first mindset
+- Production-ready delivery
+
+---
+
+## 📁 Project Structure
+
+.
+├── src
+│ ├── components
+│ ├── pages
+│ ├── styles
+│ └── utils
+├── public
+├── README.md
+└── package.json
+
+---
+
+## 🔐 Git & Security
+
+This repository uses SSH authentication for secure Git operations.
+
+---
+
+## 🚀 Deployment
+
+FCODE projects are commonly deployed using:
+
+- Vercel
+- Netlify
+- Linux VPS
+
+---
+
+## 📌 Status
+
+🟢 Public Repository  
+🛠️ Active Development
+
+---
+
+## 👤 Maintained By
+
+**Festim Reci**  
+Founder & Full-Stack Developer — FCODE
+
+📧 Email: festimrecidev@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.

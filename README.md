@@ -45,7 +45,7 @@ The focus is on clarity, usability, and long-term maintainability.
 
 ## 📁 Project Structure
 
-.
+`.
 ├── src
 │ ├── components
 │ ├── pages
@@ -53,7 +53,7 @@ The focus is on clarity, usability, and long-term maintainability.
 │ └── utils
 ├── public
 ├── README.md
-└── package.json
+└── package.json`
 
 ---
 

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const siteUrl = "https://fcode-design.com";
+const siteUrl = "https://fcode-design.netlify.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

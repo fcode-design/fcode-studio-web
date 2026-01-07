@@ -1,7 +1,9 @@
 import type { MetadataRoute } from "next";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://fcode-design.com";
+  const baseUrl = "https://fcode-design.netlify.app";
 
   return [
     {

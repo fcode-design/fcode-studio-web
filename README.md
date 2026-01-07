@@ -69,6 +69,7 @@ FCODE projects are commonly deployed using:
 
 - Vercel
 - Netlify
+- Cloudflare - `https://fcode-studio-web.festimreci.workers.dev/`
 - Linux VPS
 
 ---
